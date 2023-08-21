@@ -1,0 +1,20 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/alpine
+{
+	"name": "learngit"
+third.txt
+
+	// third.txt 
+	gitadd.-3.18"
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+third.txt.
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	// "third.txt": [],
+	// Use 'postCreateCommand' to run commands after the container is created.
+	// "postCreateCommand": "uname -a",
+	// Configure tool-specific properties.
+	// "ajout third.t
+	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+	// "remoteUser": "root"
+}
